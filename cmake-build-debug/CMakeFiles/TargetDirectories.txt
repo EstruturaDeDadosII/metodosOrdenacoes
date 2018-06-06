@@ -1,0 +1,3 @@
+D:/faculdade/estrutura-de-dados-2/ordenacao/cmake-build-debug/CMakeFiles/ordenacao.dir
+D:/faculdade/estrutura-de-dados-2/ordenacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/faculdade/estrutura-de-dados-2/ordenacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir

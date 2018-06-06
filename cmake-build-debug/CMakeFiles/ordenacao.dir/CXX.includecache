@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/faculdade/estrutura-de-dados-2/ordenacao/Ordenacao.h
+iostream
+-
+algorithm
+-
+vector
+-
+
+D:/faculdade/estrutura-de-dados-2/ordenacao/main.cpp
+iostream
+-
+stdlib.h
+-
+Ordenacao.h
+D:/faculdade/estrutura-de-dados-2/ordenacao/Ordenacao.h
+deque
+-
+ctime
+-
+
